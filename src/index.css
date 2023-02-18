@@ -1,0 +1,35 @@
+.whole{
+   border-style:solid;
+   border-radius: 20px;
+    border-color: black;
+    background-color: yellow;
+    margin-left: 25%;
+   margin-right: 25%;
+   margin-top: 20px;
+   font-size: small;
+}
+
+.window{
+    font-family: cursive;
+    margin-top: 15%;
+}
+.ip{
+    font-family: cursive;
+    border-radius: 5px;
+    padding-block: 5px;
+    padding-left: 10px;
+}
+
+.bt{
+    font-family: cursive;
+    background-color:rgb(9, 181, 238);
+    border-radius: 5px;
+    padding-block: 5px;
+}
+
+.chance{
+    float: right;
+    margin-right: 10px;
+    
+}
+
